@@ -10,8 +10,6 @@ Deposit & Withdraw operations 💵
 
 Fund transfers & transaction history 💳
 
-User authentication & authorization 🔑 for secure access
-
 Data validation & error handling ⚠️ to ensure reliability
 
 RESTful API design 🌐 for easy frontend integration (React/Next.js/Vue.js)
